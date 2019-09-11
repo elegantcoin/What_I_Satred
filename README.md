@@ -2,6 +2,9 @@
 
 展示记录我标星的项目，避免下一页，下一页繁琐的点击。
 
+- [sort()版本参见](https://github.com/elegantcoin/What_I_Stared/blob/master/Stared_sort.md)
+- [What_I_Followed 参见](https://github.com/elegantcoin/What_I_Stared/blob/master/Who_I_Followed.md)
+
 <p align="center">
     <a href="https://github.com/elegantcoin/What_I_Stared"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.7-FF1493.svg"></a>
