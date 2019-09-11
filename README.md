@@ -2,7 +2,7 @@
 
 展示记录我标星的项目，避免下一页，下一页繁琐的点击。
 
-- [sort()版本参见](https://github.com/elegantcoin/What_I_Stared/blob/master/Stared_sort.md)
+- [unsorted 版本参见](https://github.com/elegantcoin/What_I_Stared/blob/master/Stared_unsorted.md)
 - [What_I_Followed 参见](https://github.com/elegantcoin/What_I_Stared/blob/master/Who_I_Followed.md)
 - 目前比较关注点公众号[【狠戳添加__】](https://github.com/scutan90/DeepLearning-500-questions/issues/new)：九章算法、数据森麟、量子位、数说工作室、机器之心、全球人工智能、Python爱好者、大数据文摘、大数据、量化投资与机器学习
 
