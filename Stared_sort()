@@ -1,5 +1,21 @@
+# What_I_Stared sort()
+
+展示记录我标星的项目，避免下一页，下一页繁琐的点击。
+
+<p align="center">
+    <a href="https://github.com/elegantcoin/What_I_Stared"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.7-FF1493.svg"></a>
+    <a href="https://github.com/elegantcoin/What_I_Stared"><img src="https://img.shields.io/badge/platform-Windows%7CLinux%7CmacOS-660066.svg"></a>
+    <a href="https://opensource.org/licenses/mit-license.php"><img src="https://badges.frapsoft.com/os/mit/mit.svg"></a>
+    <a href="https://github.com/elegantcoin/What_I_Stared/stargazers"><img src="https://img.shields.io/github/stars/elegantcoin/What_I_Stared.svg?logo=github"></a>
+    <a href="https://github.com/elegantcoin/What_I_Stared/network/members"><img src="https://img.shields.io/github/forks/elegantcoin/What_I_Stared.svg?color=blue&logo=github"></a>
+    <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+</p>
+<br />
+
 
 |People|	语言|	Star|	Fork|	Updated time|	Info|	Repository|
+|------|------|------|------|------|------|------|
 |jwasham|	|	89196|	26146|	2019/9/3 |	完整计算机科学研究计划|	[coding-interview-university](https://github.com/jwasham/coding-interview-university)|
 |jlevy|	|	64319|	7224|	2019/7/31 |	掌握命令行|	[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|
 |jackfrued|	Jupyter Notebook|	59409|	22475|	2019/9/10 |	Python - 100 天从新手到大师|	[Python-100-Days](https://github.com/jackfrued/Python-100-Days)|
